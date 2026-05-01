@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Gaming+%2B+Coding+%2B+Music+%F0%9F%8E%B6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Gaming🎮+%2B+Coding💻+%2B+Music🎶" />
 </p>
 
 <p align="center">
@@ -45,9 +45,9 @@
 ## 🌐 Social Media
 
 <p align="center">
-<a href="https://www.facebook.com/share/18cz3uKvGB/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://www.facebook.com/share/18cz3uKvGB/"><img src="https://img.icons8.com/?size=50&id=13912&format=png&color=000000" /></a>
 <a href="https://www.instagram.com/michelle_dq3?igsh=MWplZXVzMHltZHBwdQ=="><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://www.tiktok.com/@mish_u0?_r=1&_t=ZS-960RxRaX2nI"><img src="https://img.icons8.com/color/48/tiktok--v1.png" width="48"/></a>
+<a href="https://www.tiktok.com/@mish_u0?_r=1&_t=ZS-960RxRaX2nI"><img src="https://img.icons8.com/color/48/tiktok--v1.png" width="50"/></a>
 <a href="https://discordapp.com/users/741312700302229566"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd5cXhjdTlyNDc2NXdlc24yeXUzZjNyYjhiOWo2dmYzb3JyNW94diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsVy43fVemIsfe4o6t/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ0cW4ycHdpOHRqZTR3bGVocmhzdjZ0bzF6azFjejJjbWhwbXBjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tsVy43fVemIsfe4o6t/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
