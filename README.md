@@ -39,12 +39,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎵 Spotify
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mish-0&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mish-0&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://open.spotify.com/user/malqeyquput1f8lv8xfl84yk1?si=yMiSz4i_QB-sJk8bH7E4gQ" />
 </p>
+
 
 ---
 
