@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mish :b</h1>
+<h1 align="center">👋 Hey, I'm Mish :b</h1>
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <p align="center">
@@ -7,6 +7,10 @@
 
 <p align="center">
 🎂 Born on <b>October 23, 2006</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E81786,50:8317E8,100:33BDA6&height=120&section=header"/>
 </p>
 
 ---
@@ -37,16 +41,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp" />
 </p>
 
----
-
-## 🎵 Spotify
-
-<p align="center">
-  <img src="https://open.spotify.com/user/malqeyquput1f8lv8xfl84yk1?si=yMiSz4i_QB-sJk8bH7E4gQ" />
-</p>
-
-
----
 
 ## 🌐 Social Media
 
@@ -67,6 +61,10 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ0cW4ycHdpOHRqZTR3bGVocmhzdjZ0bzF6azFjejJjbWhwbXBjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tsVy43fVemIsfe4o6t/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:8a2be2,100:33BDA6&height=100&section=footer"/>
 </p>
 
 <p align="center">Thanks for visiting my profile ;)</p>
