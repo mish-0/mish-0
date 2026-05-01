@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ0cW4ycHdpOHRqZTR3bGVocmhzdjZ0bzF6azFjejJjbWhwbXBjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tsVy43fVemIsfe4o6t/giphy.gif" width="250"/>
+<img src="https://i.giphy.com/media/tsVy43fVemIsfe4o6t/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
