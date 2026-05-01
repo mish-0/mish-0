@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Mish :b</h1>
+<h3 align="center">💻 Computer Engineering Student</h3>
 
-<!--
-**mish-0/mish-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Gaming+%2B+Coding+%2B+Music+%F0%9F%8E%B6" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🎂 Born on <b>October 23, 2006</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+🎓 Student of **Computer Engineering** at **Universidad Mayor de San Simón**  
+📍 Cochabamba, Bolivia 🇧🇴  
+
+💕 I love music, sports and videogames.  
+🌍 I dream of visiting many countries and trying food from everywhere.  
+🍣 Favorite foods: Sushi, wings and burgers.  
+🎨 I enjoy drawing and painting (even if I don't do it often).  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,linux,github,vscode,discord" />
+</p>
+
+---
+
+## ⭐ Favorite Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mish-0&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mish-0&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🌐 Social Media
+
+<p align="center">
+<a href="https://www.facebook.com/share/18cz3uKvGB/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://www.instagram.com/michelle_dq3?igsh=MWplZXVzMHltZHBwdQ=="><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.tiktok.com/@mish_u0?_r=1&_t=ZS-960RxRaX2nI"><img src="https://img.icons8.com/color/48/tiktok--v1.png" width="48"/></a>
+<a href="https://discordapp.com/users/741312700302229566"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
+
+---
+
+## 📫 Contact
+
+📩 **michelledq2r@gmail.com**
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ0cW4ycHdpOHRqZTR3bGVocmhzdjZ0bzF6azFjejJjbWhwbXBjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tsVy43fVemIsfe4o6t/giphy.gif" width="250"/>
+</p>
+
+<p align="center">Thanks for visiting my profile ;)</p>
