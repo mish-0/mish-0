@@ -41,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp" />
 </p>
 
+---
 
 ## 🌐 Social Media
 
@@ -60,7 +61,7 @@
 ---
 
 <p align="center">
-<img src="https://i.giphy.com/media/tsVy43fVemIsfe4o6t/giphy.gif" width="200"/>
+<img src="./Pibble.gif" width="200"/>
 </p>
 
 <p align="center">
